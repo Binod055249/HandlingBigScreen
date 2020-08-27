@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HandlingBigScreen</string>
+    <string name="welcome">Welcome to Intermediate Android Programming English Section!</string>
+     <string name="hello">hello english</string>
+</resources>
